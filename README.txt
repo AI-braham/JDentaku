@@ -1,0 +1,1 @@
+A java scientific calculator, the shunting yard algorithm is a bit broken. Future versions will try to fix this and add more functionality.
